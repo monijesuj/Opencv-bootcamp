@@ -23,8 +23,8 @@ OpenCv-bootcamp/
 
 ## Requirements
 - **Python 3.x**
-- **Jupyter Notebook** (or Jupyter Lab) for running the notebooks
-- **OpenCV**, **NumPy**, and other relevant Python libraries
+- **Jupyter Notebook** (or vs-code notebook) for running the notebooks
+- **OpenCV**, **NumPy**, and other relevant Python libraries(matplotlib etc)
 
 ## Setup & Usage
 1. **Notebooks:**  
