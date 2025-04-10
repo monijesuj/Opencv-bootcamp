@@ -1,8 +1,8 @@
 import cv2
 import matplotlib.pyplot as plt
 
-cb_img = cv2.imread("checkerboard_color.png")
-coke_img = cv2.imread("coca-cola-logo.png")
+cb_img = cv2.imread("images/checkerboard_color.png")
+coke_img = cv2.imread("images/coca-cola-logo.png")
 
 # Use matplotlib imshow()
 plt.imshow(cb_img)
